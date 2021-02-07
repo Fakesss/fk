@@ -1,7 +1,7 @@
 const toinmenu = (prefix, pushname) => {
-    return `◪ *Comandos do pain*
+    return `◪ *Comandos do Fakesss*
 ╔════════════════════
-║╭──❉ *MENU DO TITIO PAIN* ❉── 
+║╭──❉ *FAKESSS MENU* ❉── 
 ║│➸${prefix}prefixo
 ║│Sobre : esse muda o prefixo
 ║╰───────────
@@ -22,7 +22,7 @@ const toinmenu = (prefix, pushname) => {
 ║│Sobre : esse limpa todas conversa do bot
 ║╰───────────
 ╠════════════════════
-║ TITIO PAIN O MAIS BRABOR
+║ ESPERANTO NE MORTIS
 ╚════════════════════
 `
 
