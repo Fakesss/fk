@@ -3,15 +3,15 @@ const help = (prefix) => {
 	IAE  COMO VC ESTA? ESPERO QUE ESTEJA BEM ESSE E O MENU DO BOT
 ❉──────────❉
 
-   「 *PAIN BOT* 」
+   「 *FAKE BOT* 」
 
 ❉──────────❉
 	
 ╔════════════════════
 ║╭──❉ *INFORMAÇÕES* ❉──
 ║│➸ Prefix: 「  ${prefix}  」
-║│➸ Criador : *TIO PAIN*
-║│➸ Numero do meu criador: https://wa.me/5511949545217
+║│➸ Criador : *FAKESSSBR*
+║│➸ Numero do meu criador: https://wa.me/552794954217
 ║╰───────────    
 ╠════════════════════
 ║╭──❉ *STICKERS* ❉──
@@ -121,7 +121,7 @@ const help = (prefix) => {
 ║│➸ ${prefix}idiomas
 ║╰───────────
 ╠════════════════════
-║ TITIO PAIN O BRABOR DOS MENU
+║ ESPERANTO NE ESTAS MORTIS
 ╚════════════════════
 `
 }
